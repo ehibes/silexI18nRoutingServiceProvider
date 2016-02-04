@@ -1,0 +1,15 @@
+{
+  "name": "ehibes/silex-i18n-routing-service-provider",
+  "description": "Silex i18n routing service provider.",
+  "keywords": ["silex", "i18n routing"],
+  "license": "MIT",
+  "require": {
+    "silex/silex": "~1.1"
+  },
+  "autoload": {
+    "psr-0": { "Ibes\\I18nRouting": "src" }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8"
+  }
+}
