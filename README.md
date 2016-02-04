@@ -48,7 +48,7 @@ $app->get('/test', function () {
 ```
 Matched URLs will be:
 
-`/en/test` - url for default locale without prefix
+`/en/test` - url for default locale with prefix
 
 `/eu/entsegu-bat` - url with prefix and translated
 
