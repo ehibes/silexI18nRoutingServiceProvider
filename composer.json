@@ -4,7 +4,7 @@
   "keywords": ["silex", "i18n routing"],
   "license": "MIT",
   "require": {
-    "silex/silex": "~1.1"
+    "silex/silex": "~2.0@dev"
   },
   "autoload": {
     "psr-0": { "Ibes\\I18nRouting": "src" }

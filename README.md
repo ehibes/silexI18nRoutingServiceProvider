@@ -1,4 +1,4 @@
-I18n Routing Service Provider  [![Build Status](https://travis-ci.org/ehibes/silexI18nRoutingServiceProvider.svg?branch=1.0)](http://travis-ci.org/ehibes/silexI18nRoutingServiceProvider)
+I18n Routing Service Provider  [![Build Status](https://travis-ci.org/ehibes/silexI18nRoutingServiceProvider.svg?branch=master)](http://travis-ci.org/ehibes/silexI18nRoutingServiceProvider)
 =============================
 
 Silex i18n routing service provider inspired by [jenyak I18nRoutingServiceProvider](https://github.com/jenyak/I18nRoutingServiceProvider)
